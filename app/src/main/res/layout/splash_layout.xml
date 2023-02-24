@@ -13,8 +13,12 @@
         android:src="@drawable/carro" />
 
     <TextView
+        android:textSize="75sp"
+        android:textStyle="bold"
+        android:textColor="#CACFD2"
+        android:gravity="center"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Carros" />
+        android:text="AppCar" />
 
 </LinearLayout>
